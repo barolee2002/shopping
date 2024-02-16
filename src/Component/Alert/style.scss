@@ -1,0 +1,11 @@
+.noti{
+    position: fixed !important;
+    top: 50px;
+    z-index: 1000;
+    right: 24px;
+    width: 30%;
+    background-color: #07bf26;
+    &>p{
+        margin: 0;
+    }
+}
